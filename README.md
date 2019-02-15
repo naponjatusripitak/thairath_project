@@ -6,7 +6,7 @@ This is a crawler that I've built for scraping info from https://www.thairath.co
 
 First, you might want to clone this repository
 ```
-$ git clone https://github.com/libgit2/libgit2
+$ git clone https://github.com/naponjatusripitak/thairath_project
 
 ```
 ### Deployment
